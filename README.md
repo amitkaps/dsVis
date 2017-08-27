@@ -25,14 +25,14 @@ Visualisation plays a key component during the entire data science process - in 
 - Creating Interactive Data Dashboards
 - Model Visualization
 
-**Broad Schedule for the workshop**
+**Broad Schedule for the workshop* 
 
-0930 - 1000: Installation
-1000 - 1130: Session 1: Grammar of Graphs, 1D & 2D Vis
-1130 - 1145: Tea Break
-1145 - 1330: Session 2: Multi Dimensional Visualisation
-1330 - 1415: Lunch
-1415 - 1500: Project Discussion
-1500 - 1600: Session 3: Interactive Data Visualisation
-1600 - 1615: TeaBreak
-1615 - 1800: Session 4: Model Visualisation
+0930 - 1000: Installation   
+1000 - 1130: Session 1: Grammar of Graphs, 1D & 2D Vis  
+1130 - 1145: Tea Break  
+1145 - 1330: Session 2: Multi Dimensional Visualisation  
+1330 - 1415: Lunch  
+1415 - 1500: Project Discussion  
+1500 - 1600: Session 3: Interactive Data Visualisation  
+1600 - 1615: TeaBreak  
+1615 - 1800: Session 4: Model Visualisation  
