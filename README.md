@@ -25,7 +25,7 @@ Visualisation plays a key component during the entire data science process - in 
 - Creating Interactive Data Dashboards
 - Model Visualization
 
-**Broad Schedule for the workshop((
+**Broad Schedule for the workshop**
 
 0930 - 1000: Installation
 1000 - 1130: Session 1: Grammar of Graphs, 1D & 2D Vis
